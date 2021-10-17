@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundhos"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="40dp"
+        android:text="Evaluation of Hospital Design "
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"></TextView>
+
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv1"
+        android:layout_marginLeft="8dp"
+        android:text="Based On  Quality Standards"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"></TextView>
+
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv2"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Dr.Amr Hassanain"
+        android:textColor="@android:color/black"
+        android:textSize="24dp"
+        android:textStyle="bold"></TextView>
+
+
+</RelativeLayout>

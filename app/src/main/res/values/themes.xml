@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EHDQSV2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">#1B7DAC</item>
+        <item name="colorOnPrimary">@color/design_default_color_on_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#000000</item>
+        <item name="colorSecondaryVariant">@color/design_default_color_primary_variant</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.EHDQSV2.WhiteAccent">
+        <item name="colorAccent">@color/appColor</item> <!-- Whatever color you want-->
+    </style>
+
+</resources>

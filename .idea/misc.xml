@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/drawable/background_page.xml" value="0.1" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/drawable/btn_background.xml" value="0.19322916666666667" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/drawable/ic_baseline_emoji_flags_24.xml" value="0.2546875" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_category.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_hospita_type1.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_hospita_type3.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_hospital.xml" value="0.264" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_quiz_type_one.xml" value="0.264" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_qusetion.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_qusetion2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_qusetion3.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_qusetion4.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_qusetion5.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_qusetion6.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_register.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_reset_password.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Sila/AndroidStudioProjects/EHDQSV2/app/src/main/res/layout/activity_result.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

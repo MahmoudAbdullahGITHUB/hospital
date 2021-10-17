@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ResultActivity">
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="58dp"
+        android:layout_marginRight="58dp"
+        android:orientation="vertical">
+
+
+        <RatingBar
+            android:id="@+id/ratingBar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:rating="0.0"
+            android:stepSize="1.0" />
+
+        <TextView
+            android:id="@+id/textResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.08"
+            android:background="#000000"
+            android:text="Large Text"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/save_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/linear"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="60dp"
+        android:background="@color/btn_login"
+        android:gravity="center"
+        android:text="Save Result"
+        android:textColor="#ffffff">
+
+    </Button>
+
+
+</RelativeLayout>
